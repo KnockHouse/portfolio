@@ -1,0 +1,15 @@
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
+
+# Dependencies and build output
+node_modules/
+dist/
